@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 e865744be1dd4b36c97dd49d9b96bbf63293328a
-<!---e865744be1dd4b36c97dd49d9b96bbf63293328a
+e865744be1dd4b36c97dd49d9b96bbf63293328a
 Ali76915/Ali76915 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
